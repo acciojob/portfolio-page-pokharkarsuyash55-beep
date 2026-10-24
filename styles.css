@@ -1,2 +1,13 @@
 
 /* Your CSS Code here. */
+body{
+	font-family:Arial;
+	font-weight:800;
+		
+}
+
+img{
+	height:24px;
+	weight:24px;
+	border:1px solid black;
+}
